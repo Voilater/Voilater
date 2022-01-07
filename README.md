@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Voilater
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning tryhackme
-- 💞️ I’m looking to collaborate on it field
+- 💞️ I’m looking to collaborate on IT field
 - 📫 How to reach me jayajacob1980@gmail.com
 
 <!---
