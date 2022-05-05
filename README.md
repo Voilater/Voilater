@@ -1,31 +1,11 @@
-<h1 align="center">Hi 👋, I'm Voilater</h1>
-<h3 align="center">A passionate backend developer & cyber security from India</h3>
 
-- 🔭 I’m currently working on **self devlopment**
 
-- 🌱 I’m currently learning **cyber security**
+My name is Voilater , a student pursuing Information Technology. I'm interested in Cyber Security and i play CTF. You can find me on [<img src="https://github.com/Tzion0/Tzion0/blob/main/icons/twitter.png" width="20px">](https://twitter.com/Tzion0), or on [<img src="https://github.com/Tzion0/Tzion0/blob/main/icons/ctftime.png">](https://ctftime.org/team/144469).
 
-- 👯 I’m looking to collaborate on **cyber security**
+### ✍️ Blog & Writing
+I also maintain a blog with various Cyber Security related contents, you can find it on [tzion0.github.io](https://tzion0.github.io).
 
-- 📝 I regularly write articles on [epicsecc277.blogspot.com](epicsecc277.blogspot.com)
+### 🔧 Technologies & Tools
+<img src="https://img.shields.io/badge/OS-Linux-9cf?style=flat&logo=Debian&labelColor=black" width="80px"> <img src="https://img.shields.io/badge/Code-Python-9cf?style=flat&logo=python&labelColor=black" width="85px"> <img src="https://img.shields.io/badge/Code-C-9cf?style=flat&logo=C&labelColor=black" width="65px"> <img src="https://img.shields.io/badge/Code-Assembly-9cf?style=flat&logo=AssemblyScript&labelColor=black" width="90px"> <img src="https://img.shields.io/badge/Code-HTML-9cf?style=flat&logo=HTML5&labelColor=black" width="75px"> <img src="https://img.shields.io/badge/Code-CSS-9cf?style=flat&logo=CSS%20Wizardry&labelColor=black" width="75px"> <img src="https://img.shields.io/badge/Code-PHP-9cf?style=flat&logo=PHP&labelColor=black" width="75px"> <img src="https://img.shields.io/badge/Code-Javascript-9cf?style=flat&logo=JavaScript&labelColor=black" width="95px"> <img src="https://img.shields.io/badge/Shell-Bash-9cf?style=flat&logo=GNU%20Bash&labelColor=black" width="85px"> <img src="https://img.shields.io/badge/Note-Joplin-9cf?style=flat&logo=Joplin&labelColor=black" width="85px"> <img src="https://img.shields.io/badge/Editor-Sublime%20Text-9cf?style=flat&logo=Sublime%20Text&labelColor=black" width="100px"> <img src="https://img.shields.io/badge/Browser-Firefox-9cf?style=flat&logo=Firefox%20Browser&labelColor=black" width="95px"> <img src="https://img.shields.io/badge/VM-VirtualBox-9cf?style=flat&logo=VirtualBox&labelColor=black" width="85px">
 
-- 💬 Ask me about **linux & security**
-
-- 📫 How to reach me **jayajacob1980@gmail.com**
-
-- 📄 Know about my experiences [deployment & linux](deployment & linux)
-
-- ⚡ Fun fact **#hacker**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/voilater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="voilater" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voilater&show_icons=true&locale=en&layout=compact" alt="voilater" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voilater&show_icons=true&locale=en" alt="voilater" /></p>
 
